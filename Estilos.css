@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family:'segoe Ui';
+    color:white;
+}
+.Header {
+    color:white;
+    text-align: center;
+    padding: 20px;
+    background-color:rgba(7, 146, 7, 0.833);
+}
+.footer{
+    color:green
+    text-align: center;
+    padding: 20px;
+    background-color:green;
+}
+.form{
+    border: 1px solid green;
+    padding: 20px;  
+    border-radius: 200px;
+    margin: auto;
+    background-color: gainsboro;
+    box-shadow: 0 0 10px 0  green;
+    text-align: center;
+}
